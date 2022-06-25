@@ -5,14 +5,17 @@
 //"spider":"https://gitee.com/maitao007/mao/raw/master/baikan.jar",
 //"spider": "https://gitea.com/mai007/mtv/raw/commit/a6fb2f711efd9015ba97015804f41ccd0aca11f5/w30.jar",
 //"spider":"https://gitea.com/mai007/One/raw/branch/master/587006149_0608.jar",
-"spider":"https://ghproxy.com/https://github.com/maitao008/mt/blob/master/pg_20220619.txt",
+"spider":"https://ghproxy.com/https://github.com/maitao008/mt/blob/master/0625.jar",
 "sites":[
 // spider --> custom_spider_1651202998.bmp
 
 
+{"key":"csp_77","name":"77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "LiteApple","name": "小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key":"csp_BBB","name":"🅱哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"360_spider","name":"📺360(官源)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-
+{"key":"csp_n0ys","name":"💥1090影视(SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+	{"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_DiDuan","name":"🐼低端(SP)","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_DY1990","name":"🐼90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_CZSPP","name":"🐼厂长(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
@@ -33,7 +36,6 @@
 //{"key":"csp_gaze","name":"注视(XPF)","type":3,"api":"csp_XPathGaze","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/gaze.json"},
 
 //spider --> baikan.jar
-{"key":"csp_77","name":"77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_kmys","name":"酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"2345","name":"2345影视(官源)","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/2345.json"},
 //{"key":"sogou_spider","name":"搜狗影视(官源)","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/sogou.json"},
@@ -50,7 +52,7 @@
 {"key":"csp_xpath_骚火","name":"骚火电影","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/saohuotv2.json"},
 {"key":"csp_xpath_乐猪","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/lezhutv.json"},
 {"key":"csp_xpath_huya","name":"虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/huya2.json"},
-{"key":"csp_xpath_NBA","name":"NBA(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhendemianfei/my/raw/master/nba.js"},
+{"key":"csp_xpath_NBA","name":"球迷🏀","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhendemianfei/my/raw/master/nba.js"},
 {"key":"csp_xpath_kuqimv","name":"酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/kuqimv.json"},
 {"key":"csp_xpath_tjyy","name":"奇优影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/huigutongying.json"},
 {"key":"csp_xpath_huohuo99","name":"火火影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/huohuo99.json"},
