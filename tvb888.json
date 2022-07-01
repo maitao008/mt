@@ -69,7 +69,7 @@
 {"key":"csp_xpath_xqmi","name":"🦋小强迷","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/xqmi.json"},
 {"key":"csp_xpath_vip1280","name":"🦋VIP电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/vip1280.json"},
 {"key":"csp_xpath_zzzlike","name":"🦋周末电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/zzzlike.json"},
-{"key":"csp_XPath_bidiys","name":"🦋哔嘀影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/bidiys2.json"},
+{"key":"csp_XPath_bidiys","name":"🦋哔嘀影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/bidi.json"},
 {"key":"csp_xpath_kuqimv","name":"🦋酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/kuqimv.json"},
 {"key":"csp_xpath_yyotv","name":"🦋小太阳","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/yyotv.json"},
 {"key":"csp_xpath_auete","name":"🦋Auete影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/auete.json"},
