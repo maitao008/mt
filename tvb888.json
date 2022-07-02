@@ -25,7 +25,7 @@
 {"key": "csp_Blixq"      ,"name":"戏曲","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_PHP_WMKK"    ,"name":"🛴完美看看","type":1,  "api": "http://api.flypotato.xyz/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 //
-
+{"key": "csp_xpath_网络搜集库qiumi","name": "球迷🏀","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/516-qiumi.js"},
 {"key":"csp_xpath_huyag","name":"🦊虎牙G","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/huya2.json"},
 {"key":"csp_biubiu_斗鱼","name":"🐟斗鱼","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.futils.com/https://github.com/maitao008/xiaomai/blob/master/MaooXB/%E6%96%97%E9%B1%BC.json"},
 {"key":"csp_xpath_酷奇mv","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/酷奇MV.json"},
