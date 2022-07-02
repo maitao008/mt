@@ -130,7 +130,6 @@
 
 {"key":"超级电影","name":"超级电影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://qqtvapp.com/xgapp.php/v1/"}, 
 {"key":"csp_appysv2_六神影视","name":"六神影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://300kan.top/mogai_api.php/v1.vod"},
- {"key": "csp_appys_六神APP","name":" 【六神追剧复活版】","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 0,"filterable": 1, "ext": "http://6sys.xinluan.live/api.php/app/"},
 {"key": "6度","name": "六度爬虫","type": 1,"api": "http://pandown.pro/maoys/xuangz.php"}, 
 {"searchable":"1","quickSearch":"1","api":"csp_AppYsV2","filterable":"1","ext":"https://www.bcwzg.com/api.php/app/","key":"csp_猫群-----------贺岁2","type":"3","name":"西西"},
 {"key": "csp_appys_琅琊影院","name": "琅琊影院(M)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://fgyuu.top/lehailb_api.php/v1.vod"} ,
