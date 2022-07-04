@@ -253,7 +253,7 @@
  {"key":"csp_appys_天天视频","name":"天天视频(搜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},{"key":"csp_appys_v1_DC影视","name":"DC影视(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
  {"key":"csp_appys_渔渔影视","name":"渔渔影视(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://luobo.yugenye.site/api.php/v1.vod"}], 
 
- "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL2dpdGh1Yi5jb20vbWFpdGFvMDA4L210L2Jsb2IvbWFzdGVyL3Jlcy90djg4=="]}]}],
+ "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL2dpdGh1Yi5jb20vbWFpdGFvMDA4L210L2Jsb2IvbWFzdGVyL3Jlcy90djg4="]}]}],
 
   //"lives":[{"group":"redirect","channels":[{"name":"资源来自网络其他大神","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL2dpdGh1Yi5jb20vbWFpdGFvMDA4L210L2Jsb2IvbWFzdGVyL3Jlcy90djg4="]}]}],
 "parses":[
