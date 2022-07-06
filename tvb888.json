@@ -1,7 +1,7 @@
 ﻿{
 //"spider": "https://ghproxy.com/https://github.com/maitao008/Xm/blob/main/custom_spider.jar",
-  "spider": "https://gitea.com/mai007/One/raw/branch/master/xb/qiaoji.jar",
- // "spider": "https://gitea.com/mai007/One/raw/branch/master/xb/qiaoji07061026.jar",
+ //"spider": "https://gitea.com/mai007/One/raw/branch/master/xb/qiaoji.jar",
+ "spider": "https://gitea.com/mai007/One/raw/branch/master/xb/qiaoji07061026.jar",
 
 "sites": [
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
