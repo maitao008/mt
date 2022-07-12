@@ -1,7 +1,7 @@
 ﻿{
 //"spider":"https://notabug.org/tomb003/CatVodTVSpider/raw/master/jar/custom_spider.jar",
 //"spider":"img+https://gitee.com/maitao007/mao/raw/master/custom_spider_1651202998.bmp",
-"spider":"https://pan.bilnn.com/api/v3/file/sourcejump/Bo4mb4i2/PB60LIQiLcEUirxL2Qa9AYp-y8aJgbvaWLi5f2On1cw*",
+"spider":"https://pan.bilnn.com/api/v3/file/sourcejump/85gGD4hW/2eKz4Hl0rxE_MOpcg1QvgIQLEjv8P-_PaLjyRoCz86M*",
 //"spider":"https://gitee.com/maitao007/mao/raw/master/baikan.jar",
 //"spider": "https://pan.bilnn.cn/api/v3/file/sourcejump/Pz1MGBhO/sAY7dZEU0Nl2nX7Rwqc9qD0Ahc-AaWNFAq6uAKGbcLU*",
 //"spider":"https://gitea.com/mai007/One/raw/branch/master/587006149_0608.jar",
@@ -14,7 +14,8 @@
 {"key": "LiteApple","name": "小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_BBB","name":"哔哩套餐","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"📺360(官源)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
- {"key":"csp_kmys","name":"酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_kmys","name":"酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Lib","name":"LIBVIO影视(优)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_n0ys","name":"💥1090影视(SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_DiDuan","name":"🐼低端(SP)","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
