@@ -49,7 +49,7 @@
 {"key":"csp_xpath_dingzidy","name":"钉子电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/dingzidy.json"},   
 //
 {"key":"csp_xpath_libv","name":"🦋LIBVIO","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/libv.json"},
-{"key":"csp_xpath_zxzj2","name":"🦋在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/zxzj2.json"},
+{"key":"csp_xpath_zxzj","name":"🦋在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/zxzj.json"},
 {"key":"csp_xpath_789kp","name":"🦋789看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/789kp.json"},
 {"key":"csp_xpath_Gimy","name": "🦋Gimy影院","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/Gimy2.json"},
 {"key":"csp_xpath_乐猪TV","name": "🦋乐猪TV","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org//maitao008/xiaomai/master/MaooXP/lezhutv.json"},
