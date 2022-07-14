@@ -161,10 +161,9 @@
  {"key":"csp_xpath_猫群自维护源14","name":"来米","type":3,"api":"csp_XPath","searchable":1,"searchable":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/qdytv.json"},
  {"key":"csp_xpath_猫群自维护源27","name":"达达","type":3,"api":"csp_XPath","searchable":1,"searchable":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/dadagui.json"},
  {"key":"Jumi","name":"剧迷TV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/Jumi.json"},
- {"key":"csp_xpath_猫群自维护源49","name":"美网56","type":3,"api":"csp_XPath","searchable":1,"searchable":1,"filterable":1,"ext":"https://pglblb.coding.net/p/maotv/d/json/git/raw/master/49-%E7%BE%8E%E5%89%A756.json?download=false"},
+ //{"key":"csp_xpath_猫群自维护源49","name":"美网56","type":3,"api":"csp_XPath","searchable":1,"searchable":1,"filterable":1,"ext":"https://pglblb.coding.net/p/maotv/d/json/git/raw/master/49-%E7%BE%8E%E5%89%A756.json?download=false"},
  {"key":"csp_xpath_doujiaow","name":"豆角网(XPF)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/doujiaow.json"},
-
-{"key":"苍蓝切片①","name":"苍蓝①直链","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/from/CL4K/","playUrl":"parse:苍蓝jx"},                              
+ 
 {"key":"多多切片","name":"多多直链","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://www.zjys.vip/api.php/provide/vod/from/duoduozy/at/xml","playUrl":"parse:多多①"},
 {"key": "csp_xpath_zj","name": "zj(XPath)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/maitao007/mao/raw/master/XP/zj.json"},
 {"key": "csp_xpath_PAOPAO","name": "泡泡(XPath)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/maitao007/mao/raw/master/XP/paopao.txt"},
