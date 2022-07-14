@@ -42,6 +42,7 @@
 
 {"key":"csp_xpath_骚火","name":"骚火电影","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/saohuotv2.json"},
 {"key":"csp_xpath_乐猪","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/lezhutv.json"},
+{"key":"csp_xpath_猫群自维护源04","name":"在线","type":3,"api":"csp_XPath","searchable":1,"searchable":1,"filterable":1,"ext":"https://pan.bilnn.com/api/v3/file/sourcejump/lAme96hb/YYzjyd_ynfAjwwTVYmyhLq23MROu1LJ4ThJBqpt9XjI*"},
 {"key":"csp_xpath_huya","name":"虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/huya2.json"},
 {"key":"csp_xpath_NBA","name":"球迷🏀","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhendemianfei/my/raw/master/nba.js"},
 {"key":"csp_xpath_kuqimv","name":"酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/kuqimv.json"},
@@ -153,8 +154,7 @@
 {"key": "csp_xpath_9E","name": "9E(XP)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/maitao007/mao/raw/master/XP/9E.txt"},{"key":"csp_xpath_duboku","name":"独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/duboku2.json"}, 
 {"key": "csp_XPathMacFilter_猫群自维护源08","name": "师兄","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/hd2019/OneClickRun/raw/master/xpath/tvci.json"},
 //{"key":"csp_xpath_猫群自维护源03","name":"师兄","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://pglblb.coding.net/p/maotv/d/js/git/raw/master/08-%E5%A4%A7%E5%B8%88%E5%85%84.js?download=false"},
- {"key":"csp_xpath_猫群自维护源04","name":"在线","type":3,"api":"csp_XPath","searchable":1,"searchable":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/zxzj2.json"},
- {"key":"csp_xpath_猫群自维护源09","name":"人人","type":3,"api":"csp_XPath","searchable":1,"searchable":1,"filterable":1,"ext":"https://pglblb.coding.net/p/maotv/d/json/git/raw/master/09-%E4%BA%BA%E4%BA%BA.json?download=false"},
+
  {"key":"Gimy","name":"Gimy(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/Gimy2.json"},
  {"key":"csp_xpath_猫群自维护源05","name":"剧荒","type":3,"api":"csp_XPath","searchable":1,"searchable":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/juhuang.json"},
  {"key":"csp_XPathMacFilter_猫群自维护源16","name":"VOD","type":3,"api":"csp_XPathMacFilter","searchable":1,"searchable":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/olevod.json"},
