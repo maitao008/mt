@@ -1,6 +1,7 @@
 ﻿{
 //"spider": "https://ghproxy.com/https://github.com/maitao008/Xm/blob/main/custom_spider.jar",
- "spider": "https://pan.bilnn.com/api/v3/file/sourcejump/85gGD4hW/2eKz4Hl0rxE_MOpcg1QvgIQLEjv8P-_PaLjyRoCz86M*",
+ //"spider": "https://pan.bilnn.com/api/v3/file/sourcejump/85gGD4hW/2eKz4Hl0rxE_MOpcg1QvgIQLEjv8P-_PaLjyRoCz86M*",
+   "spider": "https://pan.bilnn.com/api/v3/file/sourcejump/LoWbxqCM/wtNjjwt-Cr9qmb-gjyo1T5W5txVeNJffUHqDLqiVJrU*",
 // "spider": "https://gitea.com/mai007/One/raw/branch/master/xb/0706%E5%87%80%E5%8C%96%E5%8C%85.jar",
 
 "sites": [
