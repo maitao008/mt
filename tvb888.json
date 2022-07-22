@@ -2,7 +2,7 @@
 //"spider": "https://ghproxy.com/https://github.com/maitao008/Xm/blob/main/custom_spider.jar",
  //"spider": "https://pan.bilnn.com/api/v3/file/sourcejump/85gGD4hW/2eKz4Hl0rxE_MOpcg1QvgIQLEjv8P-_PaLjyRoCz86M*",
   //"spider": "https://pan.bilnn.com/api/v3/file/sourcejump/LoWbxqCM/wtNjjwt-Cr9qmb-gjyo1T5W5txVeNJffUHqDLqiVJrU*",
- "spider": "https://maitao008.github.io/mt/top92.jar",
+ "spider": "https://bj29.cn-beijing.data.alicloudccp.com/7xsAKiks%2F81750690%2F62d7f209f076161f50ae4db5b3a4e9a8818e3039%2F62d7f2096e02fd7e8fb544ba8c4a708cc86194be?di=bj29&dr=71716311&f=62da3081950db66981144126ba7e6b0fc8d158a2&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27top921.jar&u=af3c708ae3bf4040b67101a121d62dda&x-oss-access-key-id=LTAI5t8sJLSvMtxoes9pGyTv&x-oss-additional-headers=referer&x-oss-expires=1658467352&x-oss-signature=x9teGoRbpmYl9JmleDaPVvoqn3gPIgZ67sAlnn0Bodk%3D&x-oss-signature-version=OSS2",
 
 "sites": [
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
