@@ -24,7 +24,7 @@
  {"key": "csp_kuaikan"    ,"name":"🐞快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Kmys"       ,"name":"🐞酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Bttoo"      ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "360_spider"     ,"name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key": "360_spider"     ,"name":"🐞360影视","api":"csp_SP361","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_LiteApple"  ,"name":"🐞苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"🐌追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
