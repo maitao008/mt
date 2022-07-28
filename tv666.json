@@ -14,7 +14,7 @@
 {"key": "LiteApple","name": "小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
  {"key":"追剧喵","name":"🐌追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_BBB","name":"哔哩套餐","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_BBB","name":"哔哩套餐","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/mai007/mtv/raw/branch/master/XP/Bili.json"},
 {"key":"360_spider","name":"📺360(官源)","type":3,"api":"csp_SP361","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_kmys","name":"酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lib","name":"LIBVIO影视(优)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
