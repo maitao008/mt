@@ -371,7 +371,7 @@
 {"name":"解析Pro","type":1,"url":"http://api.vip123kan.vip/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"解析GGTV快速","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
 {"name":"解析m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"解析parwix稳定","type":0,"url":"https://jx.bozrc.com:4433/player/?url="}
+{"name":"解析parwix稳定","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
                 {"name": "parwix3","type": 1,"url": "https://api.parwix.com:4433/analysis/json/?uid=1735&my=cejkmnuvyBEFINR056&url="},
                 {"name": "综合/B站","type": 1,"url": "https://vip.parwix.com:4433/player/?url="},
                 {"name": "综合线路解析","type": 1,"url": "https://laisoyiba.com/mov/s/?sv=3&url="},
