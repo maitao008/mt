@@ -67,6 +67,8 @@
 {"key":"csp_xpath_NBA","name":"球迷🏀","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhendemianfei/my/raw/master/nba.js"},
 {"key":"csp_xpath_kuqimv","name":"酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/kuqimv.json"},
 {"key":"csp_xpath_tjyy","name":"奇优影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/huigutongying.json"},
+{"key":"csp_biubiu_um","name":"🐉um(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0, "ext":"https://gitea.com/wlcmc1972/test/raw/branch/main/xb/um.json"},
+{"key":"茶杯狐","name":"🐺茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0, "ext":"https://gitea.com/wlcmc1972/test/raw/branch/main/xb/茶杯狐.json" },
 {"key": "csp_xpath_喵乐","name": "喵乐(XPF)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/mai007/One/raw/branch/master/xp/%E5%96%B5%E4%B9%90.json"}, 
 {"key":"csp_biubiu_VOFLIX","name":"VOFLIX","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/mai007/One/raw/branch/master/xb/VOFLIX.json"},  
 {"key":"csp_biubiu_搜狗影院","name":"搜狗影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/mai007/One/raw/branch/master/xb/%E6%90%9C%E7%8B%97%E5%BD%B1%E9%99%A2.json"}, 
