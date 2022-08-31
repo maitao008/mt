@@ -11,7 +11,7 @@
 // spider --> custom_spider_1651202998.bmp
 
 {"key":"KanSJ_spider","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"csp_77","name":"77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/77.jar;md5;3FF273ADC74924748C820B8F15FB8C49"},
+{"key":"csp_77","name":"77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/ts0831.jar;md5;1B0FAE7C99B09C6F66D6C39B114580A9"},
  {"key": "Lezhu_spider","name": "🐞乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
 {"key":"csp_剧荒","name":"👿剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "555（SP）","name": "555（SP）","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1},
