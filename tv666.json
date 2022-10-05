@@ -67,7 +67,10 @@
 {"key":"csp_Auete","name":"🐼Auete影视(爬虫)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1},
 //{"key":"csp_Subaibai","name":"🐼素白白(SP)","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"spider_mjxq","name":"美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-
+	
+{"key":"17kan","name":"⚽🏀17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/maitao007/mao/raw/master/XP/17%E7%9C%8B%E7%90%83.json"},
+{"key":"csp_xpath_NBA","name":"球迷🏀","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhendemianfei/my/raw/master/nba.js"},
+{"key": "88kanqiu","name": "⚽88球","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitee.com/zhendemianfei/my/raw/master/88kanqiu.json"},
 	
 {"key":"dr_万能影视","name":"万能(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=万能影视","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_喵喵","name":"喵喵(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=喵喵","searchable":1,"quickSearch":1,"filterable":0},
@@ -111,7 +114,6 @@
 {"key":"csp_XYQBiu_凌云影视","name":"凌云影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maitao007/mao/raw/master/XP/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_XYQBiu_凌云韩国","name":"凌云韩国","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maitao007/mao/raw/master/XP/%E5%87%8C%E4%BA%91%E9%9F%A9%E5%9B%BD.json"},
 {"key":"csp_XYQBiu_万能影院","name":"万能影院","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maitao007/mao/raw/master/XP/%E4%B8%87%E8%83%BD%E5%BD%B1%E9%99%A2.json"},
-{"key":"17kan","name":"17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/bd/v/-/raw/main/json/17%E7%9C%8B%E7%90%83.json"},
 {"key":"csp_XYQBiu_大米星球","name":"🍚大米星球","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maitao007/mao/raw/master/XP/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83xyq.json"},
 
 {"key":"csp_xBPQ_素白白","name":"🥼素白白 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jliu/bdv/raw/branch/main/XBPQ/%E8%83%96%E8%99%8E%E5%BD%B1%E8%A7%86.json"},
@@ -148,9 +150,6 @@
 {"key":"csp_xpath_乐猪","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/lezhutv.json"},
 {"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.bilnn.com/api/v3/file/sourcejump/lAme96hb/YYzjyd_ynfAjwwTVYmyhLq23MROu1LJ4ThJBqpt9XjI*"},
 {"key":"csp_xpath_huya","name":"虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/huya2.json"},
-{"key":"17kan","name":"⚽🏀17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/17%E7%9C%8B%E7%90%83.json"},
-{"key":"csp_xpath_NBA","name":"球迷🏀","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhendemianfei/my/raw/master/nba.js"},
-{"key": "88kanqiu","name": "⚽88球","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitee.com/zhendemianfei/my/raw/master/88kanqiu.json"},
 {"key":"csp_xpath_kuqimv","name":"酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/kuqimv.json"},
 {"key":"csp_xpath_tjyy","name":"奇优影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/huigutongying.json"},
 {"key":"csp_biubiu_um","name":"🐉um(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0, "ext":"https://gitea.com/mai007/One/raw/branch/master/xb/um.json"},
