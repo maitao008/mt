@@ -144,7 +144,7 @@
 {"key":"csp_xBPQ_热播酷","name":"💽热播酷 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"副标题\":\"></i>&&</span>\",\"导演\": \"导演：&&</p\",\"主演\": \"主演：&&</p\",\"简介\": \"zkjj_a\\\"&&</span\",\"播放数组\":\"class=\\\"player&&</ul>\",\"播放标题\":\">&&</a\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3\",\"分类url\":\"https://www.reboku.cc/k/{cateId}-{catePg}.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}"},
 	
 {"key":"csp_XYQBiu_310直播","name":"310直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/maitao007/mao/raw/master/XP/310%E7%9B%B4%E6%92%AD.json"},
-{"key":"csp_xpath_saohuotv","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/saohuotv2.json"},
+{"key":"csp_xpath_saohuotv","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maitao007/mao/raw/master/XP/saohuotv2.json"},
 {"key":"csp_xpath_乐猪","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/lezhutv.json"},
 {"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.bilnn.com/api/v3/file/sourcejump/lAme96hb/YYzjyd_ynfAjwwTVYmyhLq23MROu1LJ4ThJBqpt9XjI*"},
 {"key":"csp_xpath_huya","name":"虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/huya2.json"},
