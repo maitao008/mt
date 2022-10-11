@@ -255,13 +255,7 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/凌云影视.js"
     },
-    //{
-      "key": "drpy_js_猫了个咪",
-      "name": "猫了个咪[DRPY]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/猫了个咪.js"
-    },
+    //{"key": "drpy_js_猫了个咪","name": "猫了个咪[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/猫了个咪.js"},
     {
       "key": "drpy_js_喵喵",
       "name": "喵喵[DRPY]",
