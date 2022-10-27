@@ -10,7 +10,7 @@
 "sites":[
 // spider --> custom_spider_1651202998.bmp
 
-{"key":"KanSJ_spider","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+//{"key":"KanSJ_spider","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_77","name":"77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🖼图图影视","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/cs.txt;md5;456E591B3F88DA9E9398E33D657D2A9A"},
 {"key":"Lgyy","name":"蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/cs.txt;md5;456E591B3F88DA9E9398E33D657D2A9A"},
