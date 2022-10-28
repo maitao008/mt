@@ -3,8 +3,8 @@
  //"spider": "https://pan.bilnn.com/api/v3/file/sourcejump/85gGD4hW/2eKz4Hl0rxE_MOpcg1QvgIQLEjv8P-_PaLjyRoCz86M*",
   //"spider": "https://pan.bilnn.com/api/v3/file/sourcejump/LoWbxqCM/wtNjjwt-Cr9qmb-gjyo1T5W5txVeNJffUHqDLqiVJrU*",
  // "spider":"https://gitea.com/mai007/mtv/raw/branch/master/ONE/top95.jar;md5;B63E45664754F6EF2536428B857901C6",
-   //"spider": "https://gitea.com/mai007/mtv/raw/branch/master/ONE/0818q.jar;md5;FDB736F1A66A56AB77E626FB4FAF8D70",
-  "spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/1012.jar;md5;6D99C46DE900F7B85BBFA8CED2D780B0",
+   "spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/top1027.jar;md5;E17519B8D7C38A71741E6A1D01029D10",
+  //"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/1012.jar;md5;6D99C46DE900F7B85BBFA8CED2D780B0",
 
 "sites": [
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
