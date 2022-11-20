@@ -14,6 +14,7 @@
 {"key":"csp_77","name":"77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🖼图图影视","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"16705ee9f4764be8499806f52d4bf1e7","jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/ts.txt;md5;DAA5EA1A60B4A1597787CF7EDE1ABB38"},
 
 {"key":"IKan","name":"💖爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/ts.txt;md5;DAA5EA1A60B4A1597787CF7EDE1ABB38"},
