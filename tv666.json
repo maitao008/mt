@@ -634,7 +634,7 @@
 ],"header": {"User-Agent": "Mozilla/5.0"
 }},"header": {"User-Agent": "Mozilla/5.0"
 }},
-{"name": "插萝莉慢","url": "http://123.249.89.220:5705/parse/api/插萝莉慢.js?url=","type": 1,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"
+{"name": "萝莉慢","url": "http://123.249.89.220:5705/parse/api/插萝莉慢.js?url=","type": 1,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"
 ],"header": {"User-Agent": "Mozilla/5.0"
 }},"header": {"User-Agent": "Mozilla/5.0"
 }},
