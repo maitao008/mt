@@ -1,7 +1,7 @@
 ﻿{ 
 //"spider":"https://pan.bilnn.com/api/v3/file/sourcejump/85gGD4hW/2eKz4Hl0rxE_MOpcg1QvgIQLEjv8P-_PaLjyRoCz86M*",
 //"spider": "https://pan.bilnn.cn/api/v3/file/sourcejump/Pz1MGBhO/sAY7dZEU0Nl2nX7Rwqc9qD0Ahc-AaWNFAq6uAKGbcLU*",
-"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/XC.jar;md5;0E0706DC2BDEE26BC46FD7617CF1B3B7",
+"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/XC.jar;md5;6C04A4F7D5670D22A4AF997BC7C83E31",
 //"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/top1027.jar;md5;E17519B8D7C38A71741E6A1D01029D10",
 "sites":[
 // spider --> custom_spider_1651202998.bmp
@@ -10,7 +10,7 @@
 {"key":"douban","name":"🐼豆瓣荐片┃t4首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_豆瓣","name":"🐼豆瓣热播┃dr首页","type":4,"api":"http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_77","name":"77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"🆗图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:7788"},
+{"key":"csp_AppTT","name":"🆗图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php"},
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"16705ee9f4764be8499806f52d4bf1e7","jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/ts.txt;md5;DAA5EA1A60B4A1597787CF7EDE1ABB38"},
