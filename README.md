@@ -10,3 +10,5 @@ https://raw-gh.gcdn.mirr.one/
 https://cdn.jsdelivr.net/gh/ 用户/仓库@main/子目录/txt.txt
 
 https://raw.iqiq.io/cyao2q/files/master/n.json
+
+https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/biubiu/bb.json
