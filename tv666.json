@@ -107,42 +107,42 @@
       "key": "drpy_js_360影视",
       "name": "360影视[DRPY]",
       "type": 3,
-      "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
+      "api": "hhttps://gitee.com/maitao007/mao/raw/master/js/lib/drpy2.min.js",
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"
     },
     {
       "key": "drpy_js_555影视",
       "name": "555影视[DRPY]",
       "type": 3,
-      "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
+      "api": "https://gitee.com/maitao007/mao/raw/master/js/lib/drpy2.min.js",
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/555影视.js"
     },
     {
       "key": "drpy_js_1080P",
       "name": "1080P[DRPY]",
       "type": 3,
-      "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
+      "api": "https://gitee.com/maitao007/mao/raw/master/js/lib/drpy2.min.js",
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/1080P.js"
     },
     {
       "key": "drpy_js_AnFuns",
       "name": "AnFuns[DRPY]",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "api": "https://gitee.com/maitao007/mao/raw/master/js/lib/drpy2.min.js",
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AnFuns.js"
     },
     {
       "key": "drpy_js_007影视",
       "name": "007影视[DRPY]",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "api": "https://gitee.com/maitao007/mao/raw/master/js/lib/drpy2.min.js",
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/007影视.js"
     },
     {
       "key": "drpy_js_cokemv",
       "name": "cokemv[DRPY]",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "api": "https://gitee.com/maitao007/mao/raw/master/js/lib/drpy2.min.js",
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/cokemv.js"
     },
     {
