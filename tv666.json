@@ -88,6 +88,8 @@
 {"key":"csp_Auete","name":"🐼Auete影视(爬虫)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1},
 //{"key":"csp_Subaibai","name":"🐼素白白(SP)","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"spider_mjxq","name":"美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"https://gitee.com/maitao007/mao/raw/master/js/alistjar.json"},
+{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitee.com/maitao007/mao/raw/master/js/lib/alist.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/alist.json"},
 {"key":"csp_appys_美剧虫","name":"🐞美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 {"key": "csp_Yisou"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maitao007/mao/raw/master/XP/token.txt"},
 {"key": "csp_Gitcafe"    ,"name":"🐞阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maitao007/mao/raw/master/XP/token.txt"},  
@@ -101,8 +103,6 @@
 {"key":"csp_XYQBiu_310直播","name":"310直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/maitao007/mao/raw/master/XP/310%E7%9B%B4%E6%92%AD.json"},
 {"key":"csp_xBPQ_抓饭体育","name":"️🍀抓饭体育","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"},
 	
-
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitee.com/maitao007/mao/raw/master/js/lib/alist.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/alist.json"},
 {"key":"drpy_js_骚火电影","name":"影视 | 骚火电影[js]","type":3,"api":"https://gitee.com/lhacpt623/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/骚火电影.js"},
 {"key":"drpy_js_回响影视","name":"影视 | 回响影视[js]","type":3,"api":"https://gitee.com/lhacpt623/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/回响影视.js"},
 {"key":"drpy_js_低端影视","name":"影视 | 低端影视[js]","type":3,"api":"https://gitee.com/lhacpt623/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/ddys.js"},
