@@ -1,7 +1,7 @@
 ﻿{ 
 //"spider":"https://pan.bilnn.com/api/v3/file/sourcejump/85gGD4hW/2eKz4Hl0rxE_MOpcg1QvgIQLEjv8P-_PaLjyRoCz86M*",
 //"spider": "https://pan.bilnn.cn/api/v3/file/sourcejump/Pz1MGBhO/sAY7dZEU0Nl2nX7Rwqc9qD0Ahc-AaWNFAq6uAKGbcLU*",
-"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/Yoursmile.jar;md5;BC2ADDDA493B092086F9EDA452AD2E66",
+"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/Yoursmile.jar;md5;18C0CE67CBE0DBE7CCB4514F48BBC7E7",
 //"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/top1027.jar;md5;E17519B8D7C38A71741E6A1D01029D10",
 "sites":[
 //{"key":"KanSJ_spider","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
@@ -36,6 +36,7 @@
 {"key":"csp_Anime1","name":"🌸动漫","type": 3,"api": "csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Anfuns","name":"🎀Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4a","name":"📡T4聚合","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Alist","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/maitao007/mao/raw/master/XP/Alist.json"},
