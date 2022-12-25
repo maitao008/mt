@@ -1,6 +1,6 @@
 ﻿{ 
 
-"spider":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/Yoursmile.jar;md5;90843F57C2A2EC547E12D3D19B447CF0",
+"spider":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/Yoursmile.jar;md5;8F86EB79293B22966BA2C54A7C34E2EB",
 
 "sites":[
 
@@ -10,6 +10,8 @@
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"🐯新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_panghu","name":"🐯胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"BuLei","name":"⚡布雷","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"16705ee9f4764be8499806f52d4bf1e7","jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/ts.txt;md5;DAA5EA1A60B4A1597787CF7EDE1ABB38"},
 
 {"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;51B0D336C1D2AE6D1E51D006BF13B252"},	
@@ -35,6 +37,7 @@
 {"key":"csp_Anime1","name":"🌸动漫","type": 3,"api": "csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Anfuns","name":"🎀Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Ying","name":"🌸樱花","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4a","name":"📡T4聚合","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
