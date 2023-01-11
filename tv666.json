@@ -1,6 +1,6 @@
 ﻿{ 
 
-"spider":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/Yoursmile.jar;md5;203FC17AA0BD99316692CE0BC08760B8",
+"spider":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/Yoursmile.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9",
 
 "sites":[
 
@@ -14,17 +14,17 @@
 {"key":"BuLei","name":"⚡布雷","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"16705ee9f4764be8499806f52d4bf1e7","jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/ts.txt;md5;DAA5EA1A60B4A1597787CF7EDE1ABB38"},
 
-{"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;51B0D336C1D2AE6D1E51D006BF13B252"},	
-{"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;51B0D336C1D2AE6D1E51D006BF13B252"},
-{"key":"IKan","name":"💖爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;51B0D336C1D2AE6D1E51D006BF13B252"},
-{"key":"Tbook","name":"🌿听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;51B0D336C1D2AE6D1E51D006BF13B252"},
-{"key":"Yanet","name":"🦆鸭奶飞","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;51B0D336C1D2AE6D1E51D006BF13B252"},
-{"key":"Pang","name":"🐯胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;51B0D336C1D2AE6D1E51D006BF13B252"},
-{"key":"Tian","name":"💎天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;51B0D336C1D2AE6D1E51D006BF13B252"},
-{"key":"Hei","name":"🍅石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;51B0D336C1D2AE6D1E51D006BF13B252"},
-{"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;51B0D336C1D2AE6D1E51D006BF13B252"},
-{"key":"Dy555","name":"555（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;51B0D336C1D2AE6D1E51D006BF13B252"},
-{"key":"csp_Gitcafe","name":"纸条（ts）","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;51B0D336C1D2AE6D1E51D006BF13B252"},
+{"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},	
+{"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},
+{"key":"IKan","name":"💖爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},
+{"key":"Tbook","name":"🌿听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},
+{"key":"Yanet","name":"🦆鸭奶飞","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},
+{"key":"Pang","name":"🐯胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},
+{"key":"Tian","name":"💎天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},
+{"key":"Hei","name":"🍅石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},
+{"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},
+{"key":"Dy555","name":"555（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},
+{"key":"csp_Gitcafe","name":"纸条（ts）","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},
 
 {"key":"Lgyy","name":"蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Zjdr","name": "追剧达人","type": 3,"api": "csp_Zjdr","searchable": 1, "quickSearch": 1,"filterable": 1},
