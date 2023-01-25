@@ -11,7 +11,7 @@
 {"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"🐯新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_panghu","name":"🐯胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"BuLei","name":"⚡布雷","type":3,"api":"BuLei","playerType": 2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"BuLei","name":"⚡布雷","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"16705ee9f4764be8499806f52d4bf1e7","jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/ts.txt;md5;DAA5EA1A60B4A1597787CF7EDE1ABB38"},
 
 {"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},	
