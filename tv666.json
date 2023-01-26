@@ -1,12 +1,15 @@
 ﻿{ 
 
-"spider":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/Yoursmile.jar;md5;678BD405252EEB8EF98596EFA77B6092",
+"spider":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/Yoursmile.jar;md5;A465DBE8F91636BD435C70B399F5C14A",
 
 "sites":[
 
 {"key":"csp_77","name":"77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://gitlab.com/mai008/mt/-/raw/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://gitlab.com/mai008/mt/-/raw/master/js/drpy.js"},
+{"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.89:7788"},
+{"key":"AppTT","name":"🐰图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"🐯新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
@@ -14,7 +17,7 @@
 {"key":"BuLei","name":"⚡布雷","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"16705ee9f4764be8499806f52d4bf1e7","jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/ts.txt;md5;DAA5EA1A60B4A1597787CF7EDE1ABB38"},
 
-{"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},	
+//{"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},	
 {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},
 {"key":"IKan","name":"💖爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},
 {"key":"Tbook","name":"🌿听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/ts.jar;md5;CCE086B9186251E917077C683858C58A"},
@@ -45,11 +48,9 @@
 {"key":"csp_剧荒","name":"👿剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "555（SP）","name": "555（SP）","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "在线直播（SP）","name": "在线直播（SP）","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🐞Anime","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lib","name":"LIBVIO影视(优)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🐼厂长(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name":"🐞天空影视","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/mai008/mt/-/raw/master/sub/Nmys.json"},
 {"key":"csp_Zxzj","name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
