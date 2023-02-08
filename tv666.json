@@ -92,7 +92,7 @@
 {"key":"Paper","name":"📜小纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": "https://github-raw.nite07.com/maitao008/mt/master/sub/token.txt"},
 {"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://github-raw.nite07.com/maitao008/mt/master/sub/token.txt"},
 {"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://github-raw.nite07.com/maitao008/mt/master/sub/token.txt"},
-{"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://github-raw.nite07.com/maitao008/mt/master/sub/token.txt"},
+{"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://github-raw.nite07.com/maitao008/mt/master/sub/token.txt$$$yingshi$$$abcd1234"},
 {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_push","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://github-raw.nite07.com/maitao008/mt/master/sub/token.txt"},
 	
 {"key":"csp_XPath_鹅直播","name":"🐧企鹅直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github-raw.nite07.com/maitao008/mt/master/sub/企鹅直播.json"},
