@@ -1,6 +1,6 @@
 ﻿{ 
 
-"spider":"https://github-raw.nite07.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;CADE5CC7CDCD94DCBE34D657C0375068",
+"spider":"https://github-raw.nite07.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;335B578E74AB545C9AC3CE560D5F35F7",
 
 "sites":[
 
@@ -43,7 +43,7 @@
 {"key":"csp_Auete","name":"🐼Auete影视(爬虫)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1},
 
 //{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"16705ee9f4764be8499806f52d4bf1e7","jar":"https://github-raw.nite07.com/maitao008/mt/master/jarcf/ts.jar;md5;DAA5EA1A60B4A1597787CF7EDE1ABB38"},
-//{"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://github-raw.nite07.com/maitao008/mt/master/jarcf/ts.jar;md5;B061493A35694916616FB2903324CFDF"},	
+{"key":"AppTT","name":"🐰图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://github-raw.nite07.com/maitao008/mt/master/jarcf/ts.jar;md5;B061493A35694916616FB2903324CFDF"},
 {"key":"IKan","name":"💖爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://github-raw.nite07.com/maitao008/mt/master/jarcf/ts.jar;md5;B061493A35694916616FB2903324CFDF"},
 {"key":"Tbook","name":"🌿听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://github-raw.nite07.com/maitao008/mt/master/jarcf/ts.jar;md5;B061493A35694916616FB2903324CFDF"},
@@ -320,9 +320,14 @@
 {"key":"百淘影视","name":"🍨百淘影视(聚)","type":1,"api":"http://ys.58g8.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"阿里影视","name":"🥤阿里影视(聚)","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":0,"quickSearch":0}], 
 
- "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
-
-  //"lives":[{"group":"redirect","channels":[{"name":"资源来自网络其他大神","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL2dpdGh1Yi5jb20vbWFpdGFvMDA4L210L2Jsb2IvbWFzdGVyL3Jlcy90djg4="]}]}],
+ "lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+	    }],
+	 
+//"lives":[{"group":"redirect","channels":[{"name":"资源来自网络其他大神","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL2dpdGh1Yi5jb20vbWFpdGFvMDA4L210L2Jsb2IvbWFzdGVyL3Jlcy90djg4="]}]}],
 "parses": [{
 		"name": "Json聚合",
 		"type": 3,
