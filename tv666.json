@@ -345,7 +345,12 @@
 			"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
 			"header":{"User-Agent":"Mozilla/5.0"}
 		}  
-	}, {
+	}, 
+	   {"name": "GGTV自用","type": 1,"url": "https://play.fuqizhishi.com/xiaobai/API.php?appkey=ganggang&url="},
+	   {"name":"呦呦","type":1,"url":"https://jxm.qcheng.cc/?url="},
+	   {"name": "星辰","type": 1, "url": "https://json.xn--9kq078cdn3a.cc/api/?key=11bd9d445313ce45aeeabe9050ea9918&url="},
+{"name": "云you","type": 1,"url": "https://chaloli.cn/api/?key=fee5845e4b9924e72cf2158cc20b2dfa&url="},
+	   {
 		"name": "byg",
 		"type": 1,
 		"url": "https://jx.ccabc.cc/byg/?url=",
