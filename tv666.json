@@ -58,7 +58,7 @@
 {"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://g-raw.nite07.com/maitao008/mt/master/jarcf/ts.jar"},
 
 {"key":"csp_SP2345","name":"2️⃣2345","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://g-raw.nite07.com/maitao008/mt/master/jarcf/x.jar"},
-{"key":"360_spider","name":"📺360(官源)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"360_spider","name":"📺360(官源)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"IQIYI","name":"🐨爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://g-raw.nite07.com/maitao008/mt/master/jarcf/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"},
 {"key":"csp_QQ","name":"🐧腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://g-raw.nite07.com/maitao008/mt/master/jarcf/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"},
 {"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://g-raw.nite07.com/maitao008/mt/master/jarcf/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"},
