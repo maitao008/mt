@@ -1,6 +1,6 @@
 ﻿{ 
 
-"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;E400F43E0E6BEB1A1997C9C6FEFDC8EE",
+"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;A02ADB9E07C948BF74E8BB6F4737F865",
 
 "sites":[
 
@@ -81,6 +81,7 @@
 {"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"https://g-raw.nite07.com/maitao008/mt/master/JS/alistjar.json","jar":"https://g-raw.nite07.com/maitao008/mt/master/jarcf/fm.jar;md5;4971E3AEE0E802323001771E44BB1A87"},
 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://g-raw.nite07.com/maitao008/mt/master/JS/lib/alist.min.js","ext":"https://g-raw.nite07.com/maitao008/mt/master/JS/alist.json"},
 {"key":"csp_Alistx","name":"🅿Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"小兵$https://6vv.app#DISK$http://124.222.140.243:8080#云播放$https://quanzi.laoxianghuijia.cn#星梦$https://pan.bashroot.top#A2$http://37.16.3.89#小江$https://dyj.me#触光$https://pan.ichuguang.com#好汉吧$https://8023.haohanba.cn#米奇$https://anime.mqmmw.ga#晴园$https://alist.52qy.repl.co#小光盘$https://alist.xiaoguanxiaocheng.life#一只鱼$https://alist.youte.ml#七米蓝$https://al.chirmyram.com#嗨翻$https://pan.hikerfans.com#非盘$http://www.feifwp.top#sangxuesheng$https://wangpan.sangxuesheng.com#Auney$http://121.227.25.116:8008","jar":"https://神器每日推送.tk/jar/alist.jar;md5;285d80f6e19e2613ea305083f84bd95a"},
+{"key":"FanYY","name":"💦剥饭","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
 {"key":"PanSou","name":"😽盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://g-raw.nite07.com/maitao008/mt/master/sub/token.txt"},
 {"key":"Paper","name":"📜小纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://g-raw.nite07.com/maitao008/mt/master/sub/token.txt"},
 {"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://g-raw.nite07.com/maitao008/mt/master/sub/token.txt"},
