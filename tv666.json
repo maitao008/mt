@@ -54,6 +54,10 @@
 {"key": "csp_app_源头","name": "🐈肥猫影院","type": 1,"api": "http://我是.肥猫.love:63/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="},
 {"key": "mtv_百影视频","name": "💯百影视频","type": 3,"api": "csp_MianHua","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"https://yydsys.top/duo/jar/100.jar","ext": "http://47.104.99.175"},
 
+{"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"If101","name":"💿If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_trj","name":"🛫唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
+	
 {"key":"AppTT","name":"🐰图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"IKan","name":"爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/ts.jar"},
 {"key":"Smdy","name":"🐎神马影院","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"16705ee9f4764be8499806f52d4bf1e7","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/ts.jar"},
