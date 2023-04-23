@@ -136,7 +136,6 @@
 
 {"key":"csp_xb_webdillo","name":"宝仙HD[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://webdillo.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"csp_xb_达达龟","name":"达达龟[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_qsp","name":"氢视频[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"},
 {"key": "csp_xb_lez", "name": "乐猪(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1, "filterable": 0,"ext": {"homeUrl": "http://www.lezhutv.com/type/{cateId}-{datePg}.html","playlist":{"sort":1} } },
 { "key": "csp_xb_lgyys","name": "蓝光影院(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html" },
 {"key": "csp_xb_南瓜影视","name": "南瓜影视","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"},
