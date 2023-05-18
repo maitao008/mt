@@ -49,7 +49,6 @@
 {"key":"drpy_js_骚火电影","name":"影视 | 骚火电影[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/JS/lib/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/骚火电影.js"},
 {"key": "csp_XYQHiker_万能影视","name":"万能影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/sub/万能影视.json"},
 {"key": "csp_XYQHiker_秋霞电影网","name":"🦞秋霞电影网(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/sub/秋霞电影网.json"},
-{"key":"csp_xBPQ_ 乐猪","name":"🍀乐猪（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/xBPQ/乐猪.json"},
 {"key": "csp_XYQHiker_乐猪影视","name": "🐷乐猪影视(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/sub/乐猪TV.json"},
 {"key": "csp_XYQHiker_极客影院","name":"极客影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/sub/极客影院.json"},
 {"key": "csp_XYQHiker_HDmoli","name":"HDmoli(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/sub/HDmoli.json"},
@@ -62,7 +61,6 @@
 {"key": "py_cctv","name": "🔥CCTV","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cctv.py"},
 {"key": "py_freezb","name": "🔥体育直播","type": 3,"api": "py_freezb","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_sport.py"},
 {"key": "csp_app_源头","name": "🐈肥猫影院","type": 1,"api": "http://我是.肥猫.love:63/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="},
-{"key": "mtv_百影视频","name": "💯百影视频","type": 3,"api": "csp_MianHua","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"https://yydsys.top/duo/jar/100.jar","ext": "http://47.104.99.175"},
 
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"💿If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
