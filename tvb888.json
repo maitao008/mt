@@ -1,6 +1,6 @@
 ﻿{
 
-"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;07099EA7D907106BE7990AD9DB491F2A",
+"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;8E5F048383B35728C4F1BB21C708C0C7",
    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 "sites":[
@@ -9,11 +9,12 @@
 {"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/JS/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/JS/drpy.js"},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"🐰图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+{"key":"csp_AppTT","name":"🐰图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
+{"key":"csp_Miaobo","name":"Ⓜ️秒播","type":3,"api":"csp_Miaobo","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_MeiJu69","name": "69美剧","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
 {"key":"csp_酷影","name":"😿酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
-{"key":"csp_如意4K","name":"🚀如意4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+{"key":"如意4K","name":"🚀如意4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"爱迪","name":"💖爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"红红","name":"🌈红红","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"},
 {"key":"多米","name":"🌽️多米","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"},
