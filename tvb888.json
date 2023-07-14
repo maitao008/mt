@@ -1,6 +1,6 @@
 ﻿{
 
-"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;A36810DCFEEC9BBE22EE9B5DD40B03A2",
+"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;9C583833C9809E13D924E3A2E27A2ED3",
    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 "sites":[
