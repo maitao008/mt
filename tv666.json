@@ -1,6 +1,6 @@
 ﻿{ 
 
-"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;B57F603D706080B5E8CE353DACC2929E",
+"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;5D436860E9FDCB2815FE6B48CC2443BD",
 
 "sites":[
 
@@ -244,7 +244,7 @@
 	}, {
 		"name": "小新",
 		"type": 1,
-		"url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=13270&key=begmstuACFJKNPWZ07&url=",
+		"url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=eoprsxEGHKNSUXZ149&url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
 		} 
