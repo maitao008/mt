@@ -1,6 +1,6 @@
 ﻿{ 
 
-"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;22EF4E19E3F1FA014DD8854D12DB9CCB",
+"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;673B4D81176524B1370521A2CC93002D",
 
 "sites":[
 
@@ -9,7 +9,7 @@
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/sub/token.txt"},
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/JS/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/JS/drpy.js"},
-{"key":"drpy_js_ikanbot2","name":"爱看机器人[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/JS/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/爱看机器人.js"},
+//{"key":"drpy_js_ikanbot2","name":"爱看机器人[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/JS/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/爱看机器人.js"},
 //{"key":"csp_wogg_cli","name":"阿里 | 玩偶哥哥[T4]","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt", "timeout":30},
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"},
 //{"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
@@ -42,7 +42,6 @@
 {"key":"lf_js_search","name":"路飞搜索[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_search3_min.js"},
 {"key":"lf_js_ikanbot","name":"点播┃路飞","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_ikanbot_min.js"},
 {"key":"lf_js_lf_live","name":"直播┃路飞","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/lf_live.txt"},
-{"key":"移动云盘","name":"移动┃云盘","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"timeout":30},
 {"key":"subaibai","name":"素白白[cat]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com//dxawi/0/main/cat/subaibai_open.js"},
 {"key":"kkys","name":"快看影视[cat]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com//dxawi/0/main/cat/kkys_open.js"},
 {"key":"zxzj","name":"在线之家[cat]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com//dxawi/0/main/cat/zxzj_open.js"},
