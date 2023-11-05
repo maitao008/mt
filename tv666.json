@@ -48,7 +48,6 @@
 {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
 {"key":"lf_js_lf_live","name":"直播┃路飞","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/lf_live.txt"},
 {"key":"subaibai","name":"素白白[cat]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com//dxawi/0/main/cat/subaibai_open.js"},
-{"key":"kkys","name":"快看影视[cat]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com//dxawi/0/main/cat/kkys_open.js"},
 {"key":"zxzj","name":"在线之家[cat]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com//dxawi/0/main/cat/zxzj_open.js"},
 {"key":"drpy_js_南瓜影视","name":"南瓜影视[js]","type":3,"api":"https://xhdwc.tk/lib/drpy1.min.js","ext":"https://xhdwc.tk/js/南瓜影视.js"},
 {"key":"drpy_js_荐片","name":"荐片[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/JS/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/荐片.js"},
