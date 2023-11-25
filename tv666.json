@@ -73,21 +73,6 @@
 {"key":"非凡","name":"💢非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]}], 
 
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"YanG•综合","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"范明明•综合","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"YueChan•综合","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Yoursmile•综合","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"那里花开•综合","type":0,"url":"http://hz752.love:63/txt/tvbs.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"初秋语•电台","type":0,"url":"./radio.txt"},
-{"name":"范明明•电台","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u"},
-{"name":"YanG•斗鱼","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u"},
-{"name":"YanG•虎牙","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u"},
-{"name":"肥羊•斗鱼","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u"},
-{"name":"肥羊•虎牙","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u"},
-{"name":"肥羊•YY","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/Ftindy/IPTV-URL/main/yylunbo.m3u"},
-{"name":"初秋语•哔哩","type":0,"url":"./bili.m3u"},
-{"name":"YuanHsing•油管","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u"}
 ],
 	 
 
