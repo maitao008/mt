@@ -10,7 +10,7 @@
 
 {"key":"Mtv","name":"🍋芒芒┃解析","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0}], 
 
-"lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+"lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 	 
 
