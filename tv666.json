@@ -1,6 +1,6 @@
 { 
 
-"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;96BC0ACC15591F342B4679B5FEEBE8C7",
+"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;C26A298F52963C1925514BA0B134A5F8",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
 
@@ -17,10 +17,12 @@
 {"key":"csp_MLYS","name":"🐴毛驴","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"csp_MYYS","name":"🐜蚂蚁","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_Hmys","name":"🦉河马","type":3,"api":"csp_Hmys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://m.jmzp.net.cn"},
 {"key":"橘子","name":"🍊橘子","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},
 {"key":"嘿嘿","name":"💡嘿嘿","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="},
-{"key":"皮皮虾","name":"🦀皮皮虾","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5UWFrotwJIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="},
 {"key":"南坊","name":"☀南坊","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"},
+{"key":"皮皮虾","name":"🦀皮皮虾","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5UWFrotwJIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="},
+{"key":"觅视频","name":"🗽追影猫","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fS9oLx2taGFszsP3uHWHa4dyHdIm90tKvADyREgKNL3k7R5QNMNVLiUM"},
 {"key":"繁星","name":"💥繁星","type":3,"api":"csp_AppMao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"},
 {"key":"爱迪","name":"🍟爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"鸭鸭","name":"🦆鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
@@ -56,14 +58,6 @@
 {"key":"drpy_js_短剧网","name":"🗽短剧网","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/短剧网.js"},
 //{"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/sub/Nmys.json"},
 {"key":"drpy_js_骚火电影","name":"影视 | 骚火电影[js]","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/JS/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/gaogao/master/js/骚火电影.js"},
-{"key": "py_ikan","name": "🔥爱看","type": 3,"api": "py_ikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_ikan.py"},
-{"key": "py_czspp","name": "🔥厂长影视","type": 3,"api": "py_czspp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_czspp.py"},
-{"key": "py_cyys","name": "🔥创艺影视","type": 3,"api": "py_cyys","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cyys.py"},
-{"key": "py_bilivd","name": "🔥B站视频","type": 3,"api": "py_bilivd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_bilivd.py"},
-{"key": "py_bilimd","name": "🔥B站影视","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_bilimd.py"},
-{"key": "py_cctv","name": "🔥CCTV","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cctv.py"},
-{"key": "py_freezb","name": "🔥体育直播","type": 3,"api": "py_freezb","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_sport.py"},
-
 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/gaogao/master/json/alist.json"},
 {"key":"Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
 {"key":"TuGou","name":"😽土狗","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
