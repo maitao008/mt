@@ -1,6 +1,6 @@
 { 
 
-"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;564F69FA12A8D491569E9631629E0011",
+"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;AA07EC8878625083A010DDD05261D8AA",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
 
@@ -196,21 +196,7 @@
 		"name": "Web聚合",
 		"type": 3,
 		"url": "Web"
-	},  {
-		"name": "米太硬",
-		"type": 1,
-		"url": "http://api.888484.xyz/jiexi/米太硬.php?url=",
-		"ext": {
-			"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]
-		}   
-	}, {
-		"name": "77",
-		"type": 1,
-		"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
-		}   
-	}, {
+	},   {
 		"name": "777",
 		"type": 0,
 		"url": "https://jx.777jiexi.com/player/?url=",
