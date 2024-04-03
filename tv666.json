@@ -1,6 +1,6 @@
 { 
 
-"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;3C5F0BFA701C22B077842B08BDF3A875",
+"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;6B6A8129F2B7C49A67167575FF1933BE",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
 
@@ -12,6 +12,7 @@
 {"key":"lf_js_search","name":"路飞搜索[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/gaogao/master/lib/lf_search3_min.js"},
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/JS/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/JS/drpy.js"},
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"},
+{"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy77.com/"},
