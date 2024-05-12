@@ -15,7 +15,7 @@
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czys.top/"},
 {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"csp_BaiPiao","name":"👻大白","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/"},
+//{"key":"csp_BaiPiao","name":"👻大白","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/"},
 {"key":"csp_MLYS","name":"🐴毛驴","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Xdys","name":"💥小点","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
