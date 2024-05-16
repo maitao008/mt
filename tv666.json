@@ -1,19 +1,19 @@
 { 
 
-"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;F67596CD069921751F10DF3708AEC8F5",
+"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;3287124CF77127288DD8AC0B4C02F18B",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
 
 {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_YGP","name":"🚀叨观荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
-{"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"http://127.0.0.1:9978/file/fatcat/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://api.wogg.xyz/","danMu":"弹"}},
 {"key":"lf_js_search","name":"路飞搜索[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/gaogao/master/lib/lf_search3_min.js"},
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/JS/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/JS/drpy.js"},
 {"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czys.top/"},
+{"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czzy.top/"},
 {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 //{"key":"csp_BaiPiao","name":"👻大白","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/"},
 {"key":"csp_MLYS","name":"🐴毛驴","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
