@@ -1,6 +1,6 @@
 { 
 
-"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;B620FBBCBC193A9039DEECB45DFE7253",
+"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;5C504D54E0E59B5FECDDE9213349F5C1",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
 
@@ -12,12 +12,12 @@
 {"key":"lf_js_search","name":"路飞搜索[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maitao008/gaogao/master/lib/lf_search3_min.js"},
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maitao008/mt/master/JS/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maitao008/mt/master/JS/drpy.js"},
 {"key":"csp_TianTian","name":"🦉天天影视","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"ikanbot","name":"❤️ikanbot","type":3,"playerType":"2","api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/ikanbot.js"},
+{"key":"csp_Ikanbot","name":"❤️Ikanbot","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.aikanbot.com"},
 {"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czzy.top/"},
 {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-//{"key":"csp_BaiPiao","name":"👻大白","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/"},
+{"key":"csp_Cddys","name":"🍓蛋蛋","type":3,"api":"csp_Cddys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_MLYS","name":"🐴毛驴","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Xdys","name":"💥小点","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -32,6 +32,12 @@
 {"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/"},
 {"key":"csp_Bttwoo","name":"✌比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
+{"key":"csp_Mp4Mov","name":"🧲Mp4电影","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_KubaCL","name":"🧲酷吧电影","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_MeijuMi","name":"🧲美剧迷","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_MeijuTT","name":"🧲美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
 {"key":"csp_Anime1","name":"🌸动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
