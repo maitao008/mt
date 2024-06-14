@@ -1,6 +1,6 @@
 { 
 
-"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;4085E80407746F5F4BD7C7C8E218AC54",
+"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;557E28611DC14E0C52E025068FFE2B3B",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
 
@@ -19,6 +19,7 @@
 {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Cddys","name":"🍓蛋蛋","type":3,"api":"csp_Cddys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_Jpys","name":"💮金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Xdys","name":"💥兄弟","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Jianpian","name":"🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 {"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
